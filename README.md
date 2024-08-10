@@ -8,6 +8,7 @@
 
 - zotero 中文社区 https://zotero-chinese.com/
 - zotero 官方网址 https://www.zotero.org/
+- zotero 常见操作合集 https://main--zotero-zh.netlify.app/user-guide/quick-start.html
 
 ## 安装
 
@@ -84,6 +85,11 @@ https://github.com/syt2/zotero-addons/releases/download/V1.6.13/--msg-name--.xpi
 
 ![alt text](image/标签命名.png)
 
+### 4. 笔记
+
+无论是阅读网页（右键-快照浏览），还是阅读pdf，我们都可以给具体段落添加学习笔记，之后在左侧栏可以很容易看到：
+
+![alt text](image/2024-08-10_15-24.png)
 
 ## 结束
 
